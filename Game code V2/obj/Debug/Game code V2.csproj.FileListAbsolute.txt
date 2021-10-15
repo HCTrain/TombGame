@@ -1,0 +1,12 @@
+D:\HNC\Game code V2\Game code V2\bin\Debug\Game code V2.exe.config
+D:\HNC\Game code V2\Game code V2\bin\Debug\Game code V2.exe
+D:\HNC\Game code V2\Game code V2\bin\Debug\Game code V2.pdb
+D:\HNC\Game code V2\Game code V2\obj\Debug\Game code V2.csprojResolveAssemblyReference.cache
+D:\HNC\Game code V2\Game code V2\obj\Debug\Game code V2.exe
+D:\HNC\Game code V2\Game code V2\obj\Debug\Game code V2.pdb
+E:\HNC\Game code V2\Game code V2\bin\Debug\Game code V2.exe.config
+E:\HNC\Game code V2\Game code V2\obj\Debug\Game code V2.exe
+E:\HNC\Game code V2\Game code V2\obj\Debug\Game code V2.pdb
+E:\HNC\Game code V2\Game code V2\bin\Debug\Game code V2.exe
+E:\HNC\Game code V2\Game code V2\bin\Debug\Game code V2.pdb
+E:\HNC\Game code V2\Game code V2\obj\Debug\Game code V2.csprojResolveAssemblyReference.cache
